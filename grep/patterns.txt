@@ -1,0 +1,12 @@
+Romeo
+Juliet
+ROMEO
+JULIET
+SCENE
+^If
+,$
+/^\d+$/
+/^\d*\.\d+$/
+/^\d*(\.\d+)?$/
+/^-?\d*(\.\d+)?$/
+/^[a-zA-Z0-9]*$/
